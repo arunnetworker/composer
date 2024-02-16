@@ -4,7 +4,7 @@ There are many people using Composer already, and quite a few of them are
 contributing.
 
 ## Contributing
-
+#
 If you would like to contribute to Composer, please read the
 [README](https://github.com/composer/composer) and
 [CONTRIBUTING](https://github.com/composer/composer/blob/main/.github/CONTRIBUTING.md)
