@@ -54,7 +54,7 @@
 ### Detailed differences in event flow during dependency resolution, composer updates and installs
 
 #### Composer v1
-#
+##
 - Composer resolves dependencies (dispatching PRE/POST_DEPENDENCIES_SOLVING)
 - It then iterates over all packages one by one (dispatching PRE_PACKAGE_INSTALL/UPDATE/UNINSTALL, then PRE_FILE_DOWNLOAD if needed, then POST_PACKAGE_\*)
 - And finally writes the lock file at the end
